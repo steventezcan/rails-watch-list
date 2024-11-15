@@ -68,4 +68,5 @@ gem "bootstrap", "~> 5.2"
 gem "autoprefixer-rails"
 gem "font-awesome-sass", "~> 6.1"
 gem "simple_form"
-gem "sassc-rails" # Uncomment this line
+gem "sassc-rails"
+gem 'cloudinary', '~> 1.16.0'
